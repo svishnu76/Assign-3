@@ -3,25 +3,25 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-08 06:17:34</sys_created_on>
-            <sys_id>abcc1f89370d23003f44036973990ecf</sys_id>
+            <sys_created_on>2018-10-08 07:06:01</sys_created_on>
+            <sys_id>15e76b41374d23003f44036973990e08</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-08 06:17:34</sys_updated_on>
+            <sys_updated_on>2018-10-08 07:06:01</sys_updated_on>
             <text>Few words about this phone from the manufacturer</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>abcc1f89370d23003f44036973990ecf</element>
+            <element>15e76b41374d23003f44036973990e08</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-08 06:17:34</sys_created_on>
-            <sys_id>6fcc1f89370d23003f44036973990ecf</sys_id>
+            <sys_created_on>2018-10-08 07:06:01</sys_created_on>
+            <sys_id>d9e76b41374d23003f44036973990e08</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="About" display_value="About" name="x_272851_assign_3_assign_3" sys_domain="global" view="Default view">8d895709370d23003f44036973990e18</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-08 06:17:34</sys_updated_on>
+            <sys_updated_on>2018-10-08 07:06:01</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -29,13 +29,13 @@
             <element>u_short_description</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-08 06:17:34</sys_created_on>
-            <sys_id>efcc1f89370d23003f44036973990ecf</sys_id>
+            <sys_created_on>2018-10-08 07:06:01</sys_created_on>
+            <sys_id>5de76b41374d23003f44036973990e08</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="About" display_value="About" name="x_272851_assign_3_assign_3" sys_domain="global" view="Default view">8d895709370d23003f44036973990e18</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-08 06:17:34</sys_updated_on>
+            <sys_updated_on>2018-10-08 07:06:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -43,13 +43,13 @@
             <element>u_description</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-08 06:17:34</sys_created_on>
-            <sys_id>63cc1f89370d23003f44036973990ed0</sys_id>
+            <sys_created_on>2018-10-08 07:06:01</sys_created_on>
+            <sys_id>dde76b41374d23003f44036973990e08</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="About" display_value="About" name="x_272851_assign_3_assign_3" sys_domain="global" view="Default view">8d895709370d23003f44036973990e18</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-08 06:17:34</sys_updated_on>
+            <sys_updated_on>2018-10-08 07:06:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -57,13 +57,13 @@
             <element>u_pics</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-08 06:17:34</sys_created_on>
-            <sys_id>e3cc1f89370d23003f44036973990ed0</sys_id>
+            <sys_created_on>2018-10-08 07:06:01</sys_created_on>
+            <sys_id>51e76b41374d23003f44036973990e09</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="About" display_value="About" name="x_272851_assign_3_assign_3" sys_domain="global" view="Default view">8d895709370d23003f44036973990e18</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-08 06:17:34</sys_updated_on>
+            <sys_updated_on>2018-10-08 07:06:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

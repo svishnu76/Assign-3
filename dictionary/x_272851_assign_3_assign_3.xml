@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Assign 3" max_length="40" name="x_272851_assign_3_assign_3" type="collection">
-        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Phone id" max_length="40" name="number" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Phone id" max_length="40" name="number" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Brand" max_length="40" name="u_brand" type="string">
             <choice>
                 <element inactive_on_update="false" label="Apple" sequence="0" value="apple"/>
