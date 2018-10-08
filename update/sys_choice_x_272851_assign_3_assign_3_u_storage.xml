@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_storage" table="x_272851_assign_3_assign_3" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_storage</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>32 GB</label>
+            <language>en</language>
+            <name>x_272851_assign_3_assign_3</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 05:47:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4a061f45370d23003f44036973990e6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 05:47:59</sys_updated_on>
+            <value>32 gb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_storage</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>64 GB</label>
+            <language>en</language>
+            <name>x_272851_assign_3_assign_3</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 05:47:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a061f45370d23003f44036973990e70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 05:47:59</sys_updated_on>
+            <value>64 gb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_storage</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>128 GB</label>
+            <language>en</language>
+            <name>x_272851_assign_3_assign_3</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 05:47:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a061f45370d23003f44036973990e71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 05:47:59</sys_updated_on>
+            <value>128 gb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_storage</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>256 GB</label>
+            <language>en</language>
+            <name>x_272851_assign_3_assign_3</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 05:47:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86061f45370d23003f44036973990e72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 05:47:59</sys_updated_on>
+            <value>256 gb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_storage</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>512 GB</label>
+            <language>en</language>
+            <name>x_272851_assign_3_assign_3</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 05:47:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06061f45370d23003f44036973990e73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 05:47:59</sys_updated_on>
+            <value>512 gb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_storage</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 TB</label>
+            <language>en</language>
+            <name>x_272851_assign_3_assign_3</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 05:47:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82061f45370d23003f44036973990e74</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 05:47:59</sys_updated_on>
+            <value>1 tb</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_storage</element>
+            <name>x_272851_assign_3_assign_3</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 05:47:59</sys_created_on>
+            <sys_id>82061f45370d23003f44036973990e70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_storage</sys_name>
+            <sys_package display_value="Assign 3" source="x_272851_assign_3">80c9c70d37c923003f44036973990ebe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Assign 3">80c9c70d37c923003f44036973990ebe</sys_scope>
+            <sys_update_name>sys_choice_x_272851_assign_3_assign_3_u_storage</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 05:47:59</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

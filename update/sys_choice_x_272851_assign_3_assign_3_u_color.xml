@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_color" table="x_272851_assign_3_assign_3" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Blue</label>
+            <language>en</language>
+            <name>x_272851_assign_3_assign_3</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 05:40:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>02549b05370d23003f44036973990e26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 05:40:36</sys_updated_on>
+            <value>blue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gold</label>
+            <language>en</language>
+            <name>x_272851_assign_3_assign_3</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 05:40:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>42549b05370d23003f44036973990e27</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 05:40:36</sys_updated_on>
+            <value>gold</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Red</label>
+            <language>en</language>
+            <name>x_272851_assign_3_assign_3</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 05:40:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86549b05370d23003f44036973990e34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 05:40:36</sys_updated_on>
+            <value>red</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Silver</label>
+            <language>en</language>
+            <name>x_272851_assign_3_assign_3</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 05:40:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06549b05370d23003f44036973990e35</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 05:40:36</sys_updated_on>
+            <value>silver</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_color</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Space grey</label>
+            <language>en</language>
+            <name>x_272851_assign_3_assign_3</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 05:40:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82549b05370d23003f44036973990e36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 05:40:36</sys_updated_on>
+            <value>space grey</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_color</element>
+            <name>x_272851_assign_3_assign_3</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 05:40:36</sys_created_on>
+            <sys_id>4a549b05370d23003f44036973990e26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_color</sys_name>
+            <sys_package display_value="Assign 3" source="x_272851_assign_3">80c9c70d37c923003f44036973990ebe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Assign 3">80c9c70d37c923003f44036973990ebe</sys_scope>
+            <sys_update_name>sys_choice_x_272851_assign_3_assign_3_u_color</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 05:40:36</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

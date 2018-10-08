@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_272851_assign_3.assign_3_user" name="x_272851_assign_3.assign_3_user">471bcb0d37c923003f44036973990e12</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-08 05:00:16</sys_created_on>
+        <sys_id>0b1bcb0d37c923003f44036973990e14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>471bcb0d37c923003f44036973990e12</sys_name>
+        <sys_package display_value="Assign 3" source="x_272851_assign_3">80c9c70d37c923003f44036973990ebe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Assign 3">80c9c70d37c923003f44036973990ebe</sys_scope>
+        <sys_update_name>sys_embedded_help_role_0b1bcb0d37c923003f44036973990e14</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-08 05:00:16</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
