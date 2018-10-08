@@ -20,6 +20,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="1000" name="u_description" type="string"/>
+        <element label="Exchange" max_length="40" name="u_exchange" type="boolean"/>
         <element label="Launch date" max_length="40" name="u_launch_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Model name" max_length="40" name="u_model_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Official link" max_length="1024" name="u_official_link" type="url"/>
