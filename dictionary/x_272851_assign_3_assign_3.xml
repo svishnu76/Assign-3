@@ -39,13 +39,6 @@
             </choice>
         </element>
         <element label="Units available" max_length="40" name="u_units_available" type="integer"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Warranty" max_length="40" name="u_warrenty" type="string">
-            <choice>
-                <element inactive_on_update="false" label="3 months" sequence="0" value="3_months"/>
-                <element inactive_on_update="false" label="6 months" sequence="1" value="6_months"/>
-                <element inactive_on_update="false" label="1 year" sequence="2" value="1_year"/>
-                <element inactive_on_update="false" label="2 years" sequence="3" value="2_years"/>
-            </choice>
-        </element>
+        <element attributes="edge_encryption_enabled=true" label="Warranty" max_length="40" name="u_warranty" type="string"/>
     </element>
 </database>
