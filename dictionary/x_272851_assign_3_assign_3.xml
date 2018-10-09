@@ -25,7 +25,6 @@
         <element attributes="edge_encryption_enabled=true" label="Model name" max_length="40" name="u_model_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Official link" max_length="1024" name="u_official_link" type="url"/>
         <element attributes="edge_encryption_enabled=true" label="Operating system" max_length="40" name="u_operating_system" type="string"/>
-        <element label="Replacement" max_length="40" name="u_order_within" type="glide_duration"/>
         <element label="Pics" max_length="40" name="u_pics" type="file_attachment"/>
         <element attributes="omit_sys_original=true" default="0" label="Price" max_length="20" name="u_price" type="currency"/>
         <element attributes="edge_encryption_enabled=true" label="Short description" max_length="100" name="u_short_description" type="string"/>
