@@ -25,7 +25,6 @@
         <element attributes="edge_encryption_enabled=true" label="Model name" max_length="40" name="u_model_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Official link" max_length="1024" name="u_official_link" type="url"/>
         <element attributes="edge_encryption_enabled=true" label="Operating system" max_length="40" name="u_operating_system" type="string"/>
-        <element label="Pics" max_length="40" name="u_pics" type="file_attachment"/>
         <element attributes="omit_sys_original=true" default="0" label="Price" max_length="20" name="u_price" type="currency"/>
         <element attributes="edge_encryption_enabled=true" label="Short description" max_length="100" name="u_short_description" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Storage" max_length="40" name="u_storage" type="string">
@@ -39,6 +38,14 @@
             </choice>
         </element>
         <element label="Units available" max_length="40" name="u_units_available" type="integer"/>
-        <element attributes="edge_encryption_enabled=true" label="Warranty" max_length="40" name="u_warranty" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Warranty" max_length="40" name="u_warranty" type="string">
+            <choice>
+                <element inactive_on_update="false" label="3 months" sequence="0" value="3_months"/>
+                <element inactive_on_update="false" label="6 months" sequence="1" value="6_months"/>
+                <element inactive_on_update="false" label="1 year" sequence="2" value="1_year"/>
+                <element inactive_on_update="false" label="2 years" sequence="3" value="2_years"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="What's in the box?" max_length="40" name="u_whats_in_the_box" type="string"/>
     </element>
 </database>
